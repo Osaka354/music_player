@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="_00_00">00:00</string>
+    <string name="no_music_found">No Music Found</string>
+    <string name="no_song_selected">No song selected</string>
+</resources>
